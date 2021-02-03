@@ -4,8 +4,8 @@
 # Ядро
 Проект основан на официальном ядре STM32 от STMicroelectronics https://github.com/stm32duino/Arduino_Core_STM32
 # Библиотеки
-* GyverButton https://github.com/AlexGyver/GyverLibs
-* GyverEncoder https://github.com/AlexGyver/GyverLibs
+* GyverButton https://github.com/AlexGyver/GyverLibs/tree/master/GyverButton
+* GyverEncoder https://github.com/AlexGyver/GyverLibs/tree/master/GyverEncoder
 # Описание файлов
 * Bread Board Maket.jpg - Подключение кнопок и энкодера
 * DaVinci Resolve Keyboard Shortcut.txt - Хоткеи, которые использованы в скетче
