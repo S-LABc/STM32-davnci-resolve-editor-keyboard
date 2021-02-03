@@ -1,0 +1,33 @@
+Сочетания ORIG 		Название EN 					Мое название 						Назначено
+
+←           		Frame Reverse 					Перемещение на кадр назад
+→					Frame Forward 					Перемещение на кадр вперед
+↑           		Previous Clip/Edit				Перемещение к предыдущей склейке
+↓					Next Clip/Edit 					Перемещение к следующей склейке
+Shift+← 			Second Reverse					Перемещение на секунду назад		Shift+y
+Shift+→ 			Second Forward 					Перемещение на секунду вперед		Shift+u
+Shift+i				Go To In						Перейти к началу таймлайна
+Shift+o				Go To Out						Перейти к концу таймлайна
+, 					One Frame Left (Nudge) 			Сдвиг на кадр влево
+. 					One Frame Right (Nudge)			Сдвиг на кадр вправо
+`  					Undo 							Шаг назад
+l 					Play Forward 					Воспроизведение вперед
+j 					Play Reverse 					Воспроизведение назад
+k 					Stop 							Остановить воспроизведение
+Shift+k				Play Slow						Воспроизведение медленно
+Shift+l				Fast Forward					Быстро вперед
+Shift+j				Fast Reverse					Быстро назад
+Space 				Pause\Start Playback 			Пауза\Воспроизведение
+q 					Source\Timeline Viewer 			Источник\Таймлайн
+Shift+q 			Source Clip\Source Tape 		Источник клип\Источник лента
+i 					Mark In 						Точка входа
+o 					Mark Out 						Точка выхода
+F9 					Insert 							Вставить встык сдвинув вправо
+F10 				Overwrite 						Вставить с заменой
+F11 				Replace 						Вставить с заменой фрагмента
+F12 				Place on Top 					Вставить на дорожку выше
+Shift+F11 			Fit To Fill				 		Вставить вместо клипа				F7
+Shift+F12 			Append to End of Timeline 		Добавить в конец таймлайна			F8
+					Resize In 						Изменять начало клипа				Shift+b
+					Resize Out 						Изменять конец клипа				Shift+n
+					Roll 							Двигать склейку						Shift+g
