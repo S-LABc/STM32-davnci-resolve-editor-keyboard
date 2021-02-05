@@ -1,6 +1,6 @@
 # STM32-davnci-resolve-editor-keyboard
 Клавиатура для DaVinci Resolve на STM32 для Arduino IDE
-* Официальный сайт оригинальной клавиатуры https://www.blackmagicdesign.com/products/davinciresolve/keyboard
+* [Официальный сайт](https://www.blackmagicdesign.com/products/davinciresolve/keyboard) оригинальной клавиатуры
 # Ядро
 Проект построен на [официальном ядре](https://github.com/stm32duino/Arduino_Core_STM32) от [STMicroelectronics](https://www.st.com/content/st_com/en.html) 
 # Библиотеки
@@ -12,4 +12,5 @@
 * STM32F103C8 Keyboard.txt - Файл настройки хоткеев для DaVinci Resolve
 * STM32_BMD_Resolve_Editor_Keyboard - Скетч
 
-[Видео с примером](https://youtu.be/PN_3zcqNvCg)
+# Ссылки
+* [Видео с примером](https://youtu.be/PN_3zcqNvCg)
